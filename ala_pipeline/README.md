@@ -7,7 +7,7 @@
 Developed a pipeline between Mari and Houdini that streamlines the transfer of textures, automating the process of import and material setup while seamlessly integrating with the current ALA pipeline infrastructure.
 
 <p align="center">
-  <img src="../media/mari_to_houdini_pipeline_preview1.png" width="70%" alt="Mari to Houdini Pipeline - Preview 1">
+  <img src="../media/mari_to_houdini_pipeline_preview1.png" width="60%" alt="Mari to Houdini Pipeline - Preview 1">
   <img src="../media/mari_to_houdini_pipeline_preview2.png" width="30%" alt="Mari to Houdini Pipeline - Preview 2">
 </p>
 
