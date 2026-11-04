@@ -2,15 +2,21 @@
 
 # About Me
 
+TBD
+
 ## ALA Pipeline
 
-### Notable implementations:
+### Notable Implementations
 
 #### Mari to Houdini Pipeline
 
 Built with: Mari, Houdini
 
 Developed a pipeline between Mari and Houdini that streamlines the transfer of textures, automating the process of import and mateiral setup while seamlessly integrating with the current ALA pipeline infrastructure.
+
+![Mari to Houdini Pipeline 1](media/mari_to_houdini_pipeline_preview1.png)
+![Mari to Houdini Pipeline 2](media/mari_to_houdini_pipeline_preview2.png)
+![Mari to Houdini Pipeline 3](media/mari_to_houdini_pipeline_preview3.png)
 
 <!--
 - Images
@@ -22,15 +28,7 @@ Built with: Tractor, Houdini, Nuke
 
 Developed a pipeline between Houdini and Nuke that provides users with various render settings before automatically rendering denoised frames that then connect to Nuke review tools.
 
-<!--
-- Import code
--->
-
-#### Karmaboy
-
-Built with: Houdini
-
-Developed an automated procedure upon publish of a USD layout / animation that fully renders the scene in Karma.
+![Karma Lighting Submission 1](media/karma_lighting_submission.png)
 
 <!--
 - Images
@@ -42,6 +40,8 @@ Built with: Maya, Houdini
 Integrated with: Katana, Nuke
 
 Developed a cross-DCC tool that can quickly transfer assets, animations and nodes to other desktops that share the same disk space.
+
+![NetCopy 1](media/netcopy1.png)
 
 <!--
 - Images (and maybe gif)
@@ -55,6 +55,8 @@ Built with: Maya, Houdini, Katana, Nuke
 
 Developed a full pipeline for a project that fully accomodates for automated file allocation, versioning and publishing.
 
+https://github.com/vicluong/pixie-dust
+
 <!--
 - Images
 -->
@@ -65,6 +67,8 @@ Built with: Unreal
 
 Served as game programmer and level designer for a game created for the SXSW 2025 Game Jam. Game was shortlisted then displayed at the SXSW Sydney Games Festival.
 
+https://kinetic-magic.itch.io/snake-break
+
 <!--
 - Images (and maybe gif)
 -->
@@ -73,7 +77,7 @@ Served as game programmer and level designer for a game created for the SXSW 202
 
 Built with: Maya
 
-Developed a tool that, given a folder with various, properly named texture maps, creates a material in Maya
+Developed a tool that, given a folder with various, properly named texture maps, creates a material in Maya. Created for an ALA student's project.
 
 <!--
 - Images
@@ -86,6 +90,8 @@ Developed a tool that, given a folder with various, properly named texture maps,
 Built with: Maya
 
 A simple suite of tools for use in Maya. Some examples, include quick module reloading, mesh duplication around a point and auto fill.
+
+https://github.com/vicluong/maya-tools
 
 <!--
 - Images (and maybe gif)
