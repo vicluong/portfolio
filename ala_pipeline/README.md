@@ -2,151 +2,155 @@
 
 ## Mari to Houdini Pipeline
 
-Built with: Mari, Houdini
+**Built with:** Mari, Houdini
 
-Developed a pipeline between Mari and Houdini that streamlines the transfer of textures, automating the process of import and mateiral setup while seamlessly integrating with the current ALA pipeline infrastructure.
+Developed a pipeline between Mari and Houdini that streamlines the transfer of textures, automating the process of import and material setup while seamlessly integrating with the current ALA pipeline infrastructure.
 
-![Mari to Houdini Pipeline 1](/media/mari_to_houdini_pipeline_preview1.png)
-![Mari to Houdini Pipeline 2](/media/media/mari_to_houdini_pipeline_preview2.png)
-![Mari to Houdini Pipeline 3](/media/mari_to_houdini_pipeline_preview3.png)
+<p align="center">
+  <img src="media/mari_to_houdini_pipeline_preview1.png" width="70%" alt="Mari to Houdini Pipeline - Preview 1">
+  <br>
+  <img src="media/mari_to_houdini_pipeline_preview2.png" width="70%" alt="Mari to Houdini Pipeline - Preview 2">
+  <br>
+  <img src="media/mari_to_houdini_pipeline_preview3.png" width="70%" alt="Mari to Houdini Pipeline - Preview 3">
+</p>
 
-<!--
-- Images
--->
+---
 
 ## Karma Lighting Submission
 
-Built with: Tractor, Houdini, Nuke
+**Built with:** Tractor, Houdini, Nuke
 
 Developed a pipeline between Houdini and Nuke that provides users with various render settings before automatically rendering denoised frames that then connect to Nuke review tools.
 
-![Karma Lighting Submission 1](/media/karma_lighting_submission.png)
+<p align="center">
+  <img src="media/karma_lighting_submission.png" width="70%" alt="Karma Lighting Submission">
+</p>
 
-<!--
-- Images
--->
+---
 
 ## NetCopy
 
-Built with: Maya, Houdini
-Integrated with: Katana, Nuke
+**Built with:** Maya, Houdini  
+**Integrated with:** Katana, Nuke
 
 Developed a cross-DCC tool that can quickly transfer assets, animations and nodes to other desktops that share the same disk space.
 
-![NetCopy 1](/media/netcopy1.png)
+<p align="center">
+  <img src="media/netcopy1.png" width="70%" alt="NetCopy">
+</p>
 
-<!--
-- Images (and maybe gif)
--->
+---
 
 ## Karmaboy
 
-Built with: Houdini
+**Built with:** Houdini
 
 Developed an automated procedure upon publish of a USD layout / animation that fully renders the scene in Karma.
 
-<!--
-- Images
--->
+<!-- Images -->
+
+---
 
 ## Focal Point Tracking
 
-Built with: Maya
+**Built with:** Maya
 
-Developed a tool that allows for the quick manipulation of the depth of field based on the location of a focal point locator
+Developed a tool that allows for the quick manipulation of the depth of field based on the location of a focal point locator.
 
-![Focal Point Tracking 1](/media/focal_point_tracker1.png)
+<p align="center">
+  <img src="media/focal_point_tracker1.png" width="60%" alt="Focal Point Tracking">
+</p>
 
-<!--
-- Gif
--->
+<!-- GIF -->
+
+---
 
 ## Comp Builder - Light Groups Extension
 
-Built with: Nuke
+**Built with:** Nuke
 
-Extended the existing comp builder tool to support the manipulation of light groups
+Extended the existing comp builder tool to support the manipulation of light groups.
 
-<!--
-- Images
--->
+<!-- Images -->
+
+---
 
 ## RV Shot Updater
 
-Built with: RV
+**Built with:** RV
 
-Developed a tool that allows artists to immediately update any shots they have to the latest version in RV
+Developed a tool that allows artists to immediately update any shots they have to the latest version in RV.
 
-- Plans to include quick versioning up and down and quick import of sequence and shots
-<!--
-- Import code
-- Images
-  -->
+Planned features include quick versioning up and down and quick import of sequences and shots.
+
+<!-- Images -->
+
+---
 
 ## Animation USD Rollout
 
-Built with: Maya, ShotGrid, USD
+**Built with:** Maya, ShotGrid, USD
 
-Co-developed a tool that allows for any USD rig publishes to propogate their changes to the relevant USD animations
+Co-developed a tool that allows for any USD rig publishes to propagate their changes to the relevant USD animations.
 
-![Animation USD Rollout 1](/media/anim_usd_rollout1.png)
+<p align="center">
+  <img src="media/anim_usd_rollout1.png" width="70%" alt="Animation USD Rollout">
+</p>
 
-<!--
-- Snippet of code
-- Images
--->
+<!-- Code snippet / Images -->
+
+---
 
 ## Modelling Template For QC
 
-Built with: Houdini
+**Built with:** Houdini
 
-Co-developed a modelling template for use in Houdini for QC
+Co-developed a modelling template for use in Houdini for QC.
 
-![Modelling Template For QC 1](/media/modelling_template_for_qc1.png)
+<p align="center">
+  <img src="media/modelling_template_for_qc1.png" width="70%" alt="Modelling Template For QC">
+</p>
 
-<!--
-- Is there code?
-- Images (or maybe gifs)
--->
+---
 
 ## External Node Validation
 
-Built with: Maya, ShotGrid
+**Built with:** Maya, ShotGrid
 
-Implemented a validation check that ensures artists don't affect their submissions with external nodes, unless specified otherwise
+Implemented a validation check that ensures artists don't affect their submissions with external nodes, unless specified otherwise.
 
-![External Node Validation 2](/media/external_node_validation2.png)
-![External Node Validation 1](/media/external_node_validation1.png)
+<p align="center">
+  <img src="media/external_node_validation1.png" width="70%" alt="External Node Validation - Preview 1">
+  <br>
+  <img src="media/external_node_validation2.png" width="70%" alt="External Node Validation - Preview 2">
+</p>
 
-<!--
-- Don't import code / snippet of code
-- Images
--->
+---
 
 ## Geometry Sequence Clips Integration
 
-Built with: Houdini, USD
+**Built with:** Houdini, USD
 
-Implemented the optional use of geometry sequence clips to save disk space and reuse animation clips
+Implemented the optional use of geometry sequence clips to save disk space and reuse animation clips.
 
-![Geometry Sequence Clips Integration 1](/media/geo_clip_sequence1.png)
-![Geometry Sequence Clips Integration 2](/media/geo_clip_sequence2.png)
-![Geometry Sequence Clips Integration 3](/media/geo_clip_sequence3.png)
+<p align="center">
+  <img src="media/geo_clip_sequence1.png" width="70%" alt="Geometry Sequence Clips Integration - Preview 1">
+  <br>
+  <img src="media/geo_clip_sequence2.png" width="70%" alt="Geometry Sequence Clips Integration - Preview 2">
+  <br>
+  <img src="media/geo_clip_sequence3.png" width="70%" alt="Geometry Sequence Clips Integration - Preview 3">
+</p>
 
-<!--
-- Don't import code / snippet of code
-- Images (of HDA)
--->
+---
 
 ## Draft Deletion
 
-Built with: Houdini, ShotGrid
+**Built with:** Houdini, ShotGrid
 
-Implemented the ability to tag renders in ShotGrid and then delete them later on
+Implemented the ability to tag renders in ShotGrid and then delete them later on.
 
-![Draft Deletion 1](/media/draft_deletion.png)
+<p align="center">
+  <img src="media/draft_deletion.png" width="70%" alt="Draft Deletion">
+</p>
 
-<!--
-- Import code
-- Images
--->
+<!-- Code snippet / Images -->
