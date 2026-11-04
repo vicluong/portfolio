@@ -2,55 +2,59 @@
 
 ## ALA Pipeline
 ### Mari to Houdini Pipeline
-- Mari, Houdini
-- Import code
+Built with: Mari, Houdini
 - Images
 
-### Tractor Lighting Submission
-- Tractor, Houdini, Nuke
+### Karma Lighting Submission
+Built with: Tractor, Houdini, Nuke
 - Import code
 
 ### Karmaboy
-- Houdini
-- Import code
+Built with: Houdini
 - Images
 
 ### NetCopy
-- Maya, Houdini, Katana, Nuke
-- Import code
+Built with: Maya, Houdini
+Integrated with: Katana, Nuke
 - Images (and maybe gif)
 
 ### Focal Point Tracking
-- Maya
-- Import code
+Built with: Maya
 - Gif
 
-### Comp Builder Extension - Light Groups
-- Nuke
+### Comp Builder - Light Groups Extension
+Built with: Nuke
+- Images
+
+### RV Shot Updater
+Built with: Nuke
+- Import code
 - Images
 
 ### Animation USD Rollout
-- Maya, ShotGrid, USD
+Built with: Maya, ShotGrid, USD
 - Snippet of code
 - Images
 
 ### Modelling Template For QC
-- Houdini
+Built with: Houdini
+<!-- 
 - Is there code?
 - Images (or maybe gifs)
-
-### Geometry Sequence Clips Integration
-- Houdini
-- Import code
-- Images
+-->
 
 ### External Node Validation
-- Maya, ShotGrid
+Built with: Maya, ShotGrid
 - Don't import code / snippet of code
 - Images
 
+### Geometry Sequence Clips Integration
+Built with: Houdini
+- Don't import code / snippet of code
+- Images (of HDA)
+
 ### Draft Deletion
-- Houdini, ShotGrid
+Built with: Houdini, ShotGrid
 - Import code
 - Images
 
