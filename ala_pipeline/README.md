@@ -7,10 +7,8 @@
 Developed a pipeline between Mari and Houdini that streamlines the transfer of textures, automating the process of import and material setup while seamlessly integrating with the current ALA pipeline infrastructure.
 
 <p align="center">
-  <img src="../media/mari_to_houdini_pipeline_preview1.png" width="10%" alt="Mari to Houdini Pipeline - Preview 1">
-  <br>
-  <img src="../media/mari_to_houdini_pipeline_preview2.png" width="10%" alt="Mari to Houdini Pipeline - Preview 2">
-  <br>
+  <img src="../media/mari_to_houdini_pipeline_preview1.png" width="50%" alt="Mari to Houdini Pipeline - Preview 1">
+  <img src="../media/mari_to_houdini_pipeline_preview2.png" width="50%" alt="Mari to Houdini Pipeline - Preview 2">
 </p>
 
 ---
@@ -120,7 +118,6 @@ Implemented a validation check that ensures artists don't affect their submissio
 
 <p align="center">
   <img src="../media/external_node_validation1.png" width="70%" alt="External Node Validation - Preview 1">
-  <br>
   <img src="../media/external_node_validation2.png" width="70%" alt="External Node Validation - Preview 2">
 </p>
 
@@ -134,9 +131,7 @@ Implemented the optional use of geometry sequence clips to save disk space and r
 
 <p align="center">
   <img src="../media/geo_clip_sequence1.png" width="70%" alt="Geometry Sequence Clips Integration - Preview 1">
-  <br>
   <img src="../media/geo_clip_sequence2.png" width="70%" alt="Geometry Sequence Clips Integration - Preview 2">
-  <br>
   <img src="../media/geo_clip_sequence3.png" width="70%" alt="Geometry Sequence Clips Integration - Preview 3">
 </p>
 

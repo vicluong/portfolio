@@ -1,8 +1,10 @@
 # Portfolio
 
-# About Me
+## About Me
 
 TBD
+
+---
 
 ## ALA Pipeline
 
@@ -10,88 +12,80 @@ TBD
 
 #### Mari to Houdini Pipeline
 
-Built with: Mari, Houdini
+**Built with:** Mari, Houdini
 
-Developed a pipeline between Mari and Houdini that streamlines the transfer of textures, automating the process of import and mateiral setup while seamlessly integrating with the current ALA pipeline infrastructure.
+Developed a pipeline between Mari and Houdini that streamlines the transfer of textures, automating the process of import and material setup while seamlessly integrating with the current ALA pipeline infrastructure.
 
-![Mari to Houdini Pipeline 1](media/mari_to_houdini_pipeline_preview1.png)
-![Mari to Houdini Pipeline 2](media/mari_to_houdini_pipeline_preview2.png)
+<p align="center">
+  <img src="media/mari_to_houdini_pipeline_preview1.png" width="45%" alt="Mari to Houdini Pipeline - Preview 1">
+  <img src="media/mari_to_houdini_pipeline_preview2.png" width="45%" alt="Mari to Houdini Pipeline - Preview 2">
+</p>
 
-<!--
-- Images
--->
+---
 
 #### Karma Lighting Submission
 
-Built with: Tractor, Houdini, Nuke
+**Built with:** Tractor, Houdini, Nuke
 
 Developed a pipeline between Houdini and Nuke that provides users with various render settings before automatically rendering denoised frames that then connect to Nuke review tools.
 
-![Karma Lighting Submission 1](media/karma_lighting_submission.png)
+<p align="center">
+  <img src="media/karma_lighting_submission.png" width="70%" alt="Karma Lighting Submission">
+</p>
 
-<!--
-- Images
--->
+---
 
 #### NetCopy
 
-Built with: Maya, Houdini
-Integrated with: Katana, Nuke
+**Built with:** Maya, Houdini  
+**Integrated with:** Katana, Nuke
 
 Developed a cross-DCC tool that can quickly transfer assets, animations and nodes to other desktops that share the same disk space.
 
-![NetCopy 1](media/netcopy1.png)
+<p align="center">
+  <img src="media/netcopy1.png" width="70%" alt="NetCopy">
+</p>
 
-<!--
-- Images (and maybe gif)
--->
+---
 
 ## Collaborative Projects
 
 ### Pixie Dust
 
-Built with: Maya, Houdini, Katana, Nuke
+**Built with:** Maya, Houdini, Katana, Nuke
 
-Developed a full pipeline for a project that fully accomodates for automated file allocation, versioning and publishing.
+Developed a full pipeline for a project that fully accommodates automated file allocation, versioning and publishing.
 
-https://github.com/vicluong/pixie-dust
+<!-- Images -->
 
-<!--
-- Images
--->
+---
 
 ### Snake Break
 
-Built with: Unreal
+**Built with:** Unreal
 
-Served as game programmer and level designer for a game created for the SXSW 2025 Game Jam. Game was shortlisted then displayed at the SXSW Sydney Games Festival.
+Served as game programmer and level designer for a game created for the SXSW 2025 Game Jam. The game was shortlisted and displayed at the SXSW Sydney Games Festival.
 
-https://kinetic-magic.itch.io/snake-break
+<!-- Images / GIF -->
 
-<!--
-- Images (and maybe gif)
--->
+---
 
 ### Maya Material Maker
 
-Built with: Maya
+**Built with:** Maya
 
-Developed a tool that, given a folder with various, properly named texture maps, creates a material in Maya. Created for an ALA student's project.
+Developed a tool that, given a folder with various properly named texture maps, creates a material in Maya. Created for an ALA student's project.
 
-<!--
-- Images
--->
+<!-- Images -->
+
+---
 
 ## Personal Projects
 
-## Simple Maya Tool Suite
+### Simple Maya Tool Suite
 
-Built with: Maya
+**Built with:** Maya
 
-A simple suite of tools for use in Maya. Some examples, include quick module reloading, mesh duplication around a point and auto fill.
+A simple suite of tools for use in Maya. Some examples include quick module reloading, mesh duplication around a point and auto fill.
 
-https://github.com/vicluong/maya-tools
-
-<!--
-- Images (and maybe gif)
--->
+<!-- Images / GIF -->
