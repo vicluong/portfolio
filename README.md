@@ -16,7 +16,6 @@ Developed a pipeline between Mari and Houdini that streamlines the transfer of t
 
 ![Mari to Houdini Pipeline 1](media/mari_to_houdini_pipeline_preview1.png)
 ![Mari to Houdini Pipeline 2](media/mari_to_houdini_pipeline_preview2.png)
-![Mari to Houdini Pipeline 3](media/mari_to_houdini_pipeline_preview3.png)
 
 <!--
 - Images
