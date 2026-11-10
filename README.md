@@ -1,10 +1,15 @@
 # Portfolio
-
-## About Me
-
-TBD
-
----
+## Table of Contents
+- [ALA Pipeline](#ala-pipeline)
+  - [Mari to Houdini Pipeline](#mari-to-houdini-pipeline)
+  - [Karma Lighting Submission](#karma-lighting-submission)
+  - [NetCopy](#netcopy)
+- [Collaborative Projects](#collaborative-projects)
+  - [Pixie Dust](#pixie-dust)
+  - [Snake Break](#snake-break)
+  - [Maya Material Maker](#maya-material-maker)
+- [Personal Projects](#personal-projects)
+  - [Simple Maya Tool Suite](#simple-maya-tool-suite)
 
 ## ALA Pipeline
 
