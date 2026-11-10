@@ -12,8 +12,7 @@
   - [Simple Maya Tool Suite](#simple-maya-tool-suite)
 
 ## ALA Pipeline
-
-A more extensive list of all the contributions made to the ALA pipeline are visible in the ala_pipeline folder.
+Maintained, expanded upon and optimised the pipeline at UTS Animal Logic Academy. Notable implementations are listed below however a more extensive list of all contributions made to the ALA pipeline are visible in the ala_pipeline folder.
 
 https://github.com/vicluong/portfolio/tree/main/ala_pipeline
 
