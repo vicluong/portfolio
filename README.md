@@ -13,6 +13,8 @@
 
 ## ALA Pipeline
 
+A more extensive list of all the contributions made to the ALA pipeline are visible in the ala_pipeline folder.
+
 https://github.com/vicluong/portfolio/tree/main/ala_pipeline
 
 ### Notable Implementations
